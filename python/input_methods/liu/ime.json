@@ -1,0 +1,12 @@
+{
+	"name":"Liu (PIME)",
+	"version": "1.11",
+	"guid": "{97aea8e7-7840-42aa-87ef-83edc91631f8}",
+	"locale": "zh-Hant-TW",
+    "fallbackLocale": "zh-TW",
+	"icon": "icon.ico",
+	"win8_icon": "",
+	"moduleName": "liu_ime",
+	"serviceName": "LiuTextService",
+	"configTool": "config\\config.hta"
+}
